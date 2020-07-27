@@ -10,7 +10,7 @@ Sorry! is a board game that is based on the ancient Indian cross and circle game
 
 ## Installation
 
-Clone/download the project onto your computer and compile via Visual Studio or download from or download executable from the ![releases](https://github.com/LGuerrero13/Sorry-Game/releases) page.
+Clone/download the project onto your computer and compile via Visual Studio or download executable from the ![releases](https://github.com/LGuerrero13/Sorry-Game/releases) page.
 
 
 ## Contributing
