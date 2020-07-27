@@ -2,7 +2,7 @@
 
 Sorry! is a board game that is based on the ancient Indian cross and circle game Pachisi. Players move their pieces around the board by rolling 2 dice, attempting to get their pieces "home" before any other player.
 
-![alt text](https://imgur.com/Ol4wyBR)
+![Alt text](/images/Capture.jpg?raw=true "image1")
 
 ## Installation
 
