@@ -1,0 +1,12 @@
+﻿  CSCI101_Final_Project.cpp
+C:\Users\tcclo\source\repos\CSCI101_Final_Project\player.h(26,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Generating code
+  1 of 465 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CSCI101_Final_Project.vcxproj -> C:\Users\tcclo\source\repos\CSCI101_Final_Project\Release\CSCI101_Final_Project.exe
